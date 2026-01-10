@@ -3,12 +3,19 @@
 # Chap.02 Project React
 
 https://nano5.notion.site/2dadaf211d42802e844fcadca8015fb9
+
 https://tinyurl.com/kotlin-spring
+
 https://url.kr/smsp4w
+
 https://zrr.kr/hVeU1l
 
 <img width="150" alt="image" src="https://github.com/user-attachments/assets/b244f191-113a-408b-be7d-08335b558f94" />
 
+---
+https://nano5.notion.site/Project-2dadaf211d428131a07dd62914f75dd9?source=copy_link
+
+<img width="640" alt="image" src="https://github.com/user-attachments/assets/f3963831-3499-4f86-8bf1-6855d4a94f9f" />
 
 ---
 
